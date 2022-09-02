@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+}
+.bloco{
+    width: 20vw;
+    height: 50vh;
+    margin-right: 5%;
+    background-color: blueviolet;
+}

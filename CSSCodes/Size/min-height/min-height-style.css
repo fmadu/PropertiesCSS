@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+div{
+    background-color: blueviolet;
+    width: 10%;
+    min-height: 250px;
+    /*Estabelecer o tamanho mínimo de um container*/
+    height: 30vh;
+}

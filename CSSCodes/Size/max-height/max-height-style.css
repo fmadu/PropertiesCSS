@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+div{
+    /*max-height -> É altura máxima que o conteiner pode ter. 
+                    Se tiver muito contéudo,o que está dentro é estourado.
+                    Ele defini os limites máximos que o conteiner pode ter.
+    */
+    max-height: 200px;
+    width: 100px;
+    background-color: rgb(145, 53, 48);
+}

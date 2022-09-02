@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.bloco{
+    width: 20vw;
+    height: 50vh;
+    background-color: blueviolet;
+    margin-bottom: 10%;
+}

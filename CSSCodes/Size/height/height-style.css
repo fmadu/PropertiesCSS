@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+body{
+    height: 50vh;
+}
+div{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100%;
+}

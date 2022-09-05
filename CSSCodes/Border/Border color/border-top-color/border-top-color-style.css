@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    color: blueviolet;
+    text-align: center;
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-top-color: rgb(121, 81, 159);
+}

@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    /*border-top-style: solid;*/
+    border-top-style: dotted;
+    border-top-width: 2vh;
+    border-top-color: hsl(0, 100%, 30%, .5);
+}

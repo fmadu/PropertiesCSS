@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    height: 100vh;
+}
+.bloco{
+    width: 20vw;
+    height: 20vw;
+    background-color: blueviolet;
+    /*margin-left: 2vh;*/
+}
+/*.bloco:first-child{
+    margin-left: unset;
+}*/
+.bloco + .bloco{
+    margin-left: 2vw;
+}

@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bloco{
+    width: 20vw;
+    height: 20vw;
+    background-color: blueviolet;
+    margin: 2vw auto;
+}

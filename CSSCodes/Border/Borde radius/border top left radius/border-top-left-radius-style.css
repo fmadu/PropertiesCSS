@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#card{
+    width: 500px;
+    height: 500px;
+    background-color: blueviolet;
+    border-color: brown;
+    border-width: 20px;
+    border-style: dashed;
+    border-top-left-radius: 50% 20%;
+}

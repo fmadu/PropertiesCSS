@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    border-left-style: solid;
+    border-left-width: 5vh;
+    border-left-color: blueviolet;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    width: 500px;
+    height: 500px;
+    border-left: inherit;
+}

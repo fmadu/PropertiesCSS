@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+div{
+    width: 500px;
+    height: 500px;
+    background-color: #FBC531;
+    border: 1px solid #FBC531;
+    /*border-image-source: url(../img/border-image-source.png);
+    border-image-width: 50px;
+    border-image-slice: 34%;
+    border-image-outset: 100;
+    border-image-repeat: round;*/
+    border-image: url(../img/border-image-source.png) 100 / 50 / 100 round;
+}

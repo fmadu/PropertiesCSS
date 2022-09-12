@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    width: 300px;
+    height: 300px;
+    padding: 100px;
+    background-color: deeppink;
+    border: #333 solid 5px;
+}
+.box-sizing{
+    box-sizing: border-box;
+}

@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: min-content;
+    max-width: 150px;
+    overflow-wrap: break-word;
+    border: 1px solid black;
+}

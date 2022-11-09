@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 250px;
+    height: 250px;
+}
+.fundo{
+    background-color: #487eb0;
+    position: relative;
+    z-index: 1;
+}
+.destaque{
+    background-color: #95a5a6;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+    z-index: 0;
+}

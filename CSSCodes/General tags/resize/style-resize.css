@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+.content{
+    width: 50vw;
+}
+.item{
+    resize: both;
+    overflow: auto;
+}
+p:nth-child(2){
+    resize: block;
+}
+textarea{
+    /* resize: none; */
+    /* resize: horizontal; */
+    resize: vertical;
+}
